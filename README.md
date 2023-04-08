@@ -6,7 +6,7 @@ In this part we are preparing a lot more about Java so I invite you to go to thi
 
 <div align="center">
 
-### START Preparation
+# START <a href="https://www.hackerrank.com/domains/java?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=java">Preparation</a>
 </div>
 
 | EXERCISES | SOLUTION | NIVEAU | ETAT |
@@ -24,11 +24,13 @@ In this part we are preparing a lot more about Java so I invite you to go to thi
 | | | | |
 | | | | |
 
-
+<div align="center">
+<img src="https://github.com/NGUENAZEBS/JAVA-HackerRank/blob/main/.github/workflows/Private/image/CodeurZEBSJava.PNG?raw=true"/>
+</div>
 
 <div align="center">
 
-### START Certification
+  # START <a href="https://www.hackerrank.com/skills-verification">Certification</a>
 </div>
 
 | QUESTIONS | SOLUTION |
@@ -46,10 +48,6 @@ In this part we are preparing a lot more about Java so I invite you to go to thi
 | | | |
 | | | |
 
-
 <div align="center">
-
-###  Certification
-
-<img src=""/>
+<img src="https://github.com/NGUENAZEBS/JAVA-HackerRank/blob/main/.github/workflows/Private/image/javacertificationzebshackerrank.PNG?raw=true"/>
 </div>
