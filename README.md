@@ -11,19 +11,19 @@ In this part we are preparing a lot more about Java so I invite you to go to thi
 
 | EXERCISES | SOLUTION | NIVEAU | ETAT |
 | --- | --- | --- | --- |
-| Welcome to Java! | | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
-| 	Java Stdin and Stdout I | | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
-| Java If-Else | | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
-| Java Stdin and Stdout II | | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
-| Java Output Formatting | | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
-| Java Loops I | | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
-| Java Loops II | | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
-| Java Datatypes | | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
-| Java End-of-file | | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
-| Java Static Initializer Block | | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
-| 	Java Int to String | | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
-| Java Date and Time | | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
-| Java Currency Formatter |  | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
+| Welcome to Java! | WelcomeToJava.java | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
+| 	Java Stdin and Stdout I | JavaStdinAndStdoutI.java | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
+| Java If-Else | JavaIfElse.java | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
+| Java Stdin and Stdout II | JavaStdinAndStdoutII.java | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
+| Java Output Formatting | JavaOutputFormatting.java | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
+| Java Loops I | JavaLoopsI.java | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
+| Java Loops II | JavaLoopsII.java | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
+| Java Datatypes | JavaDatatypes.java | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
+| Java End-of-file | JavaEndOfFile.java | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
+| Java Static Initializer Block | JavaStaticInitializerBlock.java | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
+| 	Java Int to String | JavaIntToString.java | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
+| Java Date and Time | JavaDateAndTime.java | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
+| Java Currency Formatter |  JavaCurrencyFormatter.java | <a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&badge_type=java">Introduction</a> | Solved |
 
 <div align="center">
 <img src="https://github.com/NGUENAZEBS/JAVA-HackerRank/blob/main/.github/workflows/Private/image/CodeurZEBSJava.PNG?raw=true"/>
